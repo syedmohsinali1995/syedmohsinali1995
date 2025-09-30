@@ -51,7 +51,7 @@
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px"> </h2>
 
 <!--- social media icons, you can find them in assets directory of this repo --->
-<a href="https://rashidwassan.com">
+<a href="https://iamsyedmohsin.com">
     <img height="45" src="https://user-images.githubusercontent.com/60597290/173854214-c646c175-420c-40a6-b994-25acf90dcac4.png" />
 </a>  
 <a href="https://www.linkedin.com/in/syed-mohsin-ali-764800113/">
